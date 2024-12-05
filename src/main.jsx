@@ -8,6 +8,6 @@ import App from './components/App';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App title="Products" />
+    <App title="Products Name" />
   </StrictMode>,
 );
